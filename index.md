@@ -1,37 +1,14 @@
-## Welcome to GitHub Pages
+## 欢迎来到 我搜集的港剧tv资讯剖析记录
 
-You can use the [editor on GitHub](https://github.com/zhanghesongyuan/MyWonderfulPlotAnalysisTVSeriesRecord/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+![Image](icon-1024.png)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+我们常常会了解到一些有趣和特别有意义的港剧资讯作为我们茶余饭后的聊天谈资或学习用途，如果你也跟我一样对资讯有探索的兴趣，那这款应用可以很好的帮助到你。你可以把你感兴趣的零零散散的资讯搜集拼接起来，例如演员，明星及出演的影视剧等资讯信息，我们加以整理，查阅相关的章节，对该资讯进行深入剖析，并记录起来。这样我们就可以更好的了解该资讯的含义，也能满足我们对影视艺术的鉴赏。
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+如果您遇到什么需要解答的问题，请发送您的问题到以下邮箱。
 
-```markdown
-Syntax highlighted code block
+我们将第一时间为您解答。
 
-# Header 1
-## Header 2
-### Header 3
+### 邮箱地址: zhanghesongyuan7@126.com
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/zhanghesongyuan/MyWonderfulPlotAnalysisTVSeriesRecord/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+谢谢！
